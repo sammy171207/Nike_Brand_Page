@@ -11,5 +11,7 @@
   <li><strong>Community Engagement:</strong> Join our vibrant community of enthusiasts and experts.</li>
 </ul>
 
-<h4>Experience the future today. Explore [Nike_Shoes] now. <a href="[Demo Link]">Demo Here</a></h4>
+
+
+<img src="https://github.com/sammy171207/Nike_Brand_Page/assets/96017028/c7561575-bdfb-4bdd-834a-3bc94aa1a163"/>
 </div>
