@@ -1,4 +1,4 @@
-<h2>Elevate Your Experience with [Brand Name] and React</h2>
+<div style="align-left>"<h2 >Elevate Your Experience with [Nike_Shoes] and React</h2>
 
 <h3>Welcome to innovation redefined. Our React-powered website offers a seamless blend of stunning design and unparalleled functionality.</h3>
 
@@ -11,4 +11,5 @@
   <li><strong>Community Engagement:</strong> Join our vibrant community of enthusiasts and experts.</li>
 </ul>
 
-<h4>Experience the future today. Explore [Brand Name] now. <a href="[Demo Link]">Demo Here</a></h4>
+<h4>Experience the future today. Explore [Nike_Shoes] now. <a href="[Demo Link]">Demo Here</a></h4>
+</div>
